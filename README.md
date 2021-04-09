@@ -1,8 +1,9 @@
-# Machine-Learning-Algorithms
-__
+# <h1 align = 'center'><b>Machine-Learning-Algorithms</b></h1>
 
+This repository consists of some `Conventional Machine Learning Algorithms`. I used `Social Network` Dataset
 
-Conventional Algorithms in Machine Learning. Presently this repository consists of the following `Machine Learning Algorithm`:
+https://user-images.githubusercontent.com/62256509/114193649-5bc3ac00-996c-11eb-8c59-a49d277af1ab.mp4
+
 
 * Linear Regression
 * Logistic Regression
