@@ -2,7 +2,7 @@
 
 This repository consists of some `Conventional Machine Learning Algorithms`. I used `Social Network` Dataset
 
-https://user-images.githubusercontent.com/62256509/114193649-5bc3ac00-996c-11eb-8c59-a49d277af1ab.mp4
+![20210409_194236.gif](https://user-images.githubusercontent.com/62256509/114194854-87936180-996d-11eb-85fd-fedaccc8fdf8.gif)
 
 
 * Linear Regression
