@@ -1,4 +1,4 @@
-# <h1 align = 'center'> <b> Decision Tree <b> <h1>
+# <h1 align = 'center'> <b> Decision Tree </b> </h1>
   
 #### **Contents**
 
