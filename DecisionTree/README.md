@@ -8,32 +8,25 @@
 * Spliting Data Into Train and Test Sets
 * Feature Scaling
 * Training Model
-
-    a) Model Instance
-    
-    b) Fitting Data in Model
-    
+```
+ * Model Instance
+ * Fitting Data in Model
+ ```   
 * Ploting Tree
-
-    a) Using plot_tree()
-    
-    b) Using graphviz
-    
-    c) Using dtreeviz
-    
+```
+ * Using plot_tree()
+ * Using graphviz
+ * Using dtreeviz
+```    
 * Model Prediction
 * Model Evaluation
-
-    a) Confusion Matrix
-    
-    b) Accuracy
-
-    c) Calculating Error
-
-    d) Precision, Recall, F1 Score
-
-    e) Ploting Graph
-
+```
+ * Confusion Matrix
+ * Accuracy
+ *  Calculating Error
+ *  Precision, Recall, F1 Score
+ * Ploting Graph
+```
 Since the output of `dtreeviz` is not visible in github (I don't know why), I'm uploading the pics of the graph obtained:
 
 To save the image I used **plot.save("train_decision_tree.svg")** and **plot.save("test_decision_tree.svg")**. Bellow are the Screenshots of output.
