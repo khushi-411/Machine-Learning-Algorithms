@@ -12,6 +12,8 @@ This repository consists of some `Conventional Machine Learning Algorithms`. I u
 
 ### **Algorithms**
 
+Final Prediction Boundraries of each algorithm is shown bellow.
+
 ### **Linear Regression**
 
 ![lin1](https://user-images.githubusercontent.com/62256509/114218610-427c2900-9987-11eb-8df0-70d7ba2923e8.png)  ![lin2](https://user-images.githubusercontent.com/62256509/114218653-4e67eb00-9987-11eb-86c4-1fba654b4f00.png)
@@ -21,6 +23,8 @@ This repository consists of some `Conventional Machine Learning Algorithms`. I u
 ![log1](https://user-images.githubusercontent.com/62256509/114218680-5c1d7080-9987-11eb-983b-abc86ff3c2eb.png)  ![log2](https://user-images.githubusercontent.com/62256509/114218719-693a5f80-9987-11eb-995d-37ac36819ab3.png)
 
 ### **SVM**
+
+Kernel Used: **RBF**
 
 ![svm1](https://user-images.githubusercontent.com/62256509/114218785-8111e380-9987-11eb-84c3-f0c7b5a5405e.png)  ![svm2](https://user-images.githubusercontent.com/62256509/114218828-8ec76900-9987-11eb-85a4-71d2bcba169b.png)
 
