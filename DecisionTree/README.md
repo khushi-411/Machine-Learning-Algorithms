@@ -1,4 +1,6 @@
-# **Decision Tree**
+# <h1 align = 'center'> <b> Decision Tree <b> <h1>
+  
+#### **Contents**
 
 * Importing Libraries
 * About Dataset
@@ -7,21 +9,30 @@
 * Feature Scaling
 * Training Model
 
-a) Model Instance
-b) Fitting Data in Model
+    a) Model Instance
+    
+    b) Fitting Data in Model
+    
 * Ploting Tree
 
-a) Using plot_tree()
-b) Using graphviz
-c) Using dtreeviz
+    a) Using plot_tree()
+    
+    b) Using graphviz
+    
+    c) Using dtreeviz
+    
 * Model Prediction
 * Model Evaluation
 
-a) Confusion Matrix
-b) Accuracy
-c) Calculating Error
-d) Precision, Recall, F1 Score
-e) Ploting Graph
+    a) Confusion Matrix
+    
+    b) Accuracy
+
+    c) Calculating Error
+
+    d) Precision, Recall, F1 Score
+
+    e) Ploting Graph
 
 Since the output of `dtreeviz` is not visible in github (I don't know why), I'm uploading the pics of the graph obtained:
 
